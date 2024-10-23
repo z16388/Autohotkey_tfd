@@ -1,2 +1,6 @@
-# Autohotkey_tfd
-AutoHotkey Scripts about The First Descendant
+# 第一后裔 AutoHotKey脚本分享
+
+|名称|功用|
+|:--|:--|
+|space|兔子跳|
+|q|q技能蹭输出|
